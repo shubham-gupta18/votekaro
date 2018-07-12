@@ -1,0 +1,69 @@
+#austyle
+{
+	
+    padding-top: 10px;
+    padding-right: 140px;
+    padding-bottom: 50px;
+    padding-left: 140px;
+    font-size: 16px |important;
+}
+#abouthead
+{       
+	margin-top:80px;
+	margin-bottom:0px;
+	padding-left: 140px;
+	padding-top: 4px;
+	width:100%;
+	height:75px;
+	 text-shadow: 3px 2px white;
+        font-weight:bold;
+	background-color:rgba(153, 153, 102,.2);
+}
+
+#motto
+{	
+	width:100%;
+	height:275px;
+}
+#block1
+{
+	width:100%;
+	height:15px;
+	background-color:DarkCyan;
+}
+#block2
+{
+	width:100%;
+	height:350px;
+	background-color:White;
+	text-align:center;
+        font-weight:bold;
+	padding-top: 4px;
+}
+#team
+{
+	width:100%;
+	height:30%;
+	background-color:#F2F2F2;
+	text-align:center;
+        font-weight:bold;
+}
+#team {
+	padding: 50px 0;
+	background: #e6e6e6;
+}
+img.img-thumbnail.team-img {
+	width: 200px;
+	height: 200px;
+	border: 0;
+	border-radius: 0px;
+	background-color: #f6f6f6;
+}
+#team .thumbnail {
+	background: transparent;
+	border: 0;
+}
+#team .thumbnail .caption {
+	padding: 9px;
+	color: #777;
+}
